@@ -6,4 +6,3 @@ This is a collection of good articles I have reading.
 
 ### Life
 
-
